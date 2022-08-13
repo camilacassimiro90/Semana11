@@ -1,20 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\Semana11\\ApiMusicas.Api\\ApiMusicas.Api.csproj": {}
+    "c:\\DevInHouse\\Semana11\\ApiMusicas.Api\\ApiMusicas.Api.csproj": {}
   },
   "projects": {
-    "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\Semana11\\ApiMusicas.Api\\ApiMusicas.Api.csproj": {
+    "c:\\DevInHouse\\Semana11\\ApiMusicas.Api\\ApiMusicas.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\Semana11\\ApiMusicas.Api\\ApiMusicas.Api.csproj",
+        "projectUniqueName": "c:\\DevInHouse\\Semana11\\ApiMusicas.Api\\ApiMusicas.Api.csproj",
         "projectName": "ApiMusicas.Api",
-        "projectPath": "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\Semana11\\ApiMusicas.Api\\ApiMusicas.Api.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\Semana11\\ApiMusicas.Api\\obj\\",
+        "projectPath": "c:\\DevInHouse\\Semana11\\ApiMusicas.Api\\ApiMusicas.Api.csproj",
+        "packagesPath": "C:\\Users\\Camila Cassimiro\\.nuget\\packages\\",
+        "outputPath": "c:\\DevInHouse\\Semana11\\ApiMusicas.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Camila Cassimiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -43,6 +44,12 @@
               "version": "[6.0.8, )"
             },
             "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.8, )"
             },
@@ -77,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
