@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hMsPFHiVwZNawy1JTEB62haB+uCtsZSsdcsbRIUkhsg=",
+  "Source": "ApiMusicas.Api",
+  "BasePath": "_content/ApiMusicas.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
