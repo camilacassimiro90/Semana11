@@ -3,16 +3,18 @@ using ApiMusicas.Api.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
 
-namespace ApiMusicas.Api.Migrations
+namespace ApiMusicas.Api.Data.Migrations
 {
     [DbContext(typeof(MusicasDbContext))]
-    partial class MusicasDbContextModelSnapshot : ModelSnapshot
+    [Migration("20220814205110_Inicial")]
+    partial class Inicial
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

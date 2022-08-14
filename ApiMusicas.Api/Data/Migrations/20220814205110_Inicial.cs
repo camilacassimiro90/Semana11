@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace ApiMusicas.Api.Migrations
+namespace ApiMusicas.Api.Data.Migrations
 {
     public partial class Inicial : Migration
     {
