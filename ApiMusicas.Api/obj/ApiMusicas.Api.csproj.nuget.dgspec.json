@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DevInHouse\\Semana11\\ApiMusicas.Api\\ApiMusicas.Api.csproj": {}
+    "c:\\DevInHouse\\Semana11\\ApiMusicas.Api\\ApiMusicas.Api.csproj": {}
   },
   "projects": {
-    "C:\\DevInHouse\\Semana11\\ApiMusicas.Api\\ApiMusicas.Api.csproj": {
+    "c:\\DevInHouse\\Semana11\\ApiMusicas.Api\\ApiMusicas.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DevInHouse\\Semana11\\ApiMusicas.Api\\ApiMusicas.Api.csproj",
+        "projectUniqueName": "c:\\DevInHouse\\Semana11\\ApiMusicas.Api\\ApiMusicas.Api.csproj",
         "projectName": "ApiMusicas.Api",
-        "projectPath": "C:\\DevInHouse\\Semana11\\ApiMusicas.Api\\ApiMusicas.Api.csproj",
+        "projectPath": "c:\\DevInHouse\\Semana11\\ApiMusicas.Api\\ApiMusicas.Api.csproj",
         "packagesPath": "C:\\Users\\Camila Cassimiro\\.nuget\\packages\\",
-        "outputPath": "C:\\DevInHouse\\Semana11\\ApiMusicas.Api\\obj\\",
+        "outputPath": "c:\\DevInHouse\\Semana11\\ApiMusicas.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Camila Cassimiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,7 +21,6 @@
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -40,6 +39,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
             "Microsoft.AspNetCore.Mvc.Core": {
               "target": "Package",
               "version": "[2.2.5, )"
