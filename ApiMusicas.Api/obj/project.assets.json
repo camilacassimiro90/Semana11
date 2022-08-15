@@ -5846,20 +5846,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Camila Cassimiro\\.nuget\\packages\\": {}
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\DevInHouse\\Semana11\\ApiMusicas.Api\\ApiMusicas.Api.csproj",
+      "projectUniqueName": "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\Semana11\\ApiMusicas.Api\\ApiMusicas.Api.csproj",
       "projectName": "ApiMusicas.Api",
-      "projectPath": "c:\\DevInHouse\\Semana11\\ApiMusicas.Api\\ApiMusicas.Api.csproj",
-      "packagesPath": "C:\\Users\\Camila Cassimiro\\.nuget\\packages\\",
-      "outputPath": "c:\\DevInHouse\\Semana11\\ApiMusicas.Api\\obj\\",
+      "projectPath": "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\Semana11\\ApiMusicas.Api\\ApiMusicas.Api.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "\\\\servidor\\dados\\OneDrive\\Camila\\Senai-Curso\\Semana11\\ApiMusicas.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Camila Cassimiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -5936,7 +5935,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

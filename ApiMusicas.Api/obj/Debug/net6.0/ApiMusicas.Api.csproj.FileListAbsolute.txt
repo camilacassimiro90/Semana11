@@ -62,3 +62,13 @@ C:\DevInHouse\Semana11\ApiMusicas.Api\obj\Debug\net6.0\refint\ApiMusicas.Api.dll
 C:\DevInHouse\Semana11\ApiMusicas.Api\obj\Debug\net6.0\ApiMusicas.Api.pdb
 c:\DevInHouse\Semana11\ApiMusicas.Api\obj\Debug\net6.0\ApiMusicas.Api.genruntimeconfig.cache
 c:\DevInHouse\Semana11\ApiMusicas.Api\obj\Debug\net6.0\ref\ApiMusicas.Api.dll
+\\servidor\dados\OneDrive\Camila\Senai-Curso\Semana11\ApiMusicas.Api\obj\Debug\net6.0\ApiMusicas.Api.csproj.AssemblyReference.cache
+\\servidor\dados\OneDrive\Camila\Senai-Curso\Semana11\ApiMusicas.Api\obj\Debug\net6.0\ApiMusicas.Api.GeneratedMSBuildEditorConfig.editorconfig
+\\servidor\dados\OneDrive\Camila\Senai-Curso\Semana11\ApiMusicas.Api\obj\Debug\net6.0\ApiMusicas.Api.AssemblyInfoInputs.cache
+\\servidor\dados\OneDrive\Camila\Senai-Curso\Semana11\ApiMusicas.Api\obj\Debug\net6.0\ApiMusicas.Api.AssemblyInfo.cs
+\\servidor\dados\OneDrive\Camila\Senai-Curso\Semana11\ApiMusicas.Api\obj\Debug\net6.0\ApiMusicas.Api.csproj.CoreCompileInputs.cache
+\\servidor\dados\OneDrive\Camila\Senai-Curso\Semana11\ApiMusicas.Api\obj\Debug\net6.0\ApiMusicas.Api.MvcApplicationPartsAssemblyInfo.cs
+\\servidor\dados\OneDrive\Camila\Senai-Curso\Semana11\ApiMusicas.Api\obj\Debug\net6.0\ApiMusicas.Api.MvcApplicationPartsAssemblyInfo.cache
+\\servidor\dados\OneDrive\Camila\Senai-Curso\Semana11\ApiMusicas.Api\obj\Debug\net6.0\ApiMusicas.Api.dll
+\\servidor\dados\OneDrive\Camila\Senai-Curso\Semana11\ApiMusicas.Api\obj\Debug\net6.0\refint\ApiMusicas.Api.dll
+\\servidor\dados\OneDrive\Camila\Senai-Curso\Semana11\ApiMusicas.Api\obj\Debug\net6.0\ApiMusicas.Api.pdb
