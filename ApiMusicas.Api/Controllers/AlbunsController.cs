@@ -1,3 +1,11 @@
+using Microsoft.AspNetCore.Mvc;
+using ApiMusicas.Api.Data;
+using ApiMusicas.Api.Models;
+using Microsoft.AspNetCore.Mvc;
+// using ApiMusicas.Api.ViewModels;
+using ApiMusicas.Api.DTOs;
+using Microsoft.EntityFrameworkCore;
+
 namespace ApiMusicas.Api.Controllers;
 
 [ApiController]
